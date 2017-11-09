@@ -1,0 +1,1 @@
+ install the font, use it in vscode, enable font ligatures, enjoy
